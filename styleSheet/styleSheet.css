@@ -1,0 +1,145 @@
+
+/** Style première page **/
+#marmigrosthon {
+    font-family:"Arial Black";
+    font-style: italic;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+#menu {
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+#Q {
+    font-style: oblique;
+}
+
+#linaire {
+    font-style: normal;
+    font-size: 150px;
+}
+
+#divrecette {
+    border: 2px solid black;
+    border-radius: 75px;
+}
+
+#divblanq{
+    border: double yellow;
+    border-radius: 75px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    padding-left: 105px;
+    font-size: 30px;
+}
+
+#divpate {
+    border: double orange;
+    border-radius: 75px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    padding-left: 140px;
+    font-size: 30px;
+}
+
+#divroti {
+    border: double orangered;
+    border-radius: 75px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    padding-left: 140px;
+    font-size: 30px;
+}
+
+#divlasagne {
+    border: double red;
+    border-radius: 75px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    padding-left: 140px;
+    font-size: 30px;
+}
+
+#divmoule {
+    border: double darkred;
+    border-radius: 75px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    padding-left: 140px;
+    font-size: 30px;
+}
+
+/** Style blanquette de veau **/
+.titre1 {
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: darkorange;
+    font-style: normal;
+    font-size: 70px;
+    text-align: center;
+}
+
+.temps {
+    font-size: 25px;
+    border: solid black;
+    border-radius: 3px;
+
+}
+
+.prepa {
+    font-size: 25px;
+    border: solid black;
+    border-radius: 3px;
+}
+
+.four {
+    width: 3%;
+    margin: auto;
+}
+
+.fouet {
+    width: 3%;
+    margin: auto;
+}
+
+.table {
+    border: medium solid red;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.thead {
+    font-family: monospace;
+    border: thin solid orangered;
+    width: 50%;
+    padding: 5px;
+    background-color: aqua;
+}
+
+.tbody {
+    font-family: Bahnschrift;
+    border: thin solid orangered;
+    width: 50%;
+    padding: 5px;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+.divstape {
+    background-color: lightslategrey;
+    border: solid black;
+    border-radius: 25px;
+    text-align: center;
+}
+
+#stape {
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
